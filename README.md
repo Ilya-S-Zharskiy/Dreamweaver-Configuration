@@ -1,4 +1,4 @@
-Dreamweaver-Configuration
+Dreamweaver Configuration
 =========================
 
-c:\Users\username\AppData\Roaming\Adobe\Dreamweaver CS6u_RU\Configuration\CodeColoring\
+c:\Users\user\AppData\Roaming\Adobe\Dreamweaver CS6\ru_RU\Configuration\CodeColoring\
